@@ -1,4 +1,3 @@
-# Lab5
 
 # Laboratorio 7
 # Consideraciones importantes 
